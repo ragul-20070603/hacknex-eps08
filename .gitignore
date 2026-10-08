@@ -1,0 +1,5 @@
+.venv/
+llm/models/
+llm/llama/
+data/*.wav
+__pycache__/
